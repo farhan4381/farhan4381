@@ -1,86 +1,375 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20&height=180&section=header&text=Hi,%20I'm%20Farhan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Farhan%20Fazal&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<!-- Animated Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Raw+Data+into+Actionable+Insights;Machine+Learning+%26+Predictive+Analytics;Python+%7C+SQL+%7C+BI+%26+Data+Visualization" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0284C7&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning+%7C+Analytics;M.Sc.+Data+Science+%40+Hochschule+Fulda;Turning+Data+into+Insights+%26+Intelligent+Solutions;Predictive+Modeling+%7C+Process+Mining+%7C+AI;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/farhan4381">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/farhan4381)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanfazal4381@gmail.com)
+<a href="https://www.kaggle.com/farhanfazal98">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-</div>
+<a href="mailto:farhanfazal4381@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-### 📊 About Me
-
-- 🎓 **Education:** Master's Student in Data Science @ **Hochschule Fulda**
-- 🔭 **Core Focus:** Exploratory Data Analysis (EDA), Predictive Modeling, Process Mining & Visualization
-- 💡 **Passion:** Solving business problems through structured data analysis and predictive pipelines
-- ⚡ **Fun Fact:** When I'm not training models or cleaning messy CSVs, I'm exploring new data viz trends
-
----
-
-### 🛠️ Tech Stack & Toolkit
-
-**Programming & Core Analytics**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Machine Learning & Data Science**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Data Visualization & BI Tools**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Databases, Cloud & Dev Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Data Projects
-
-| Project | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| [**Insurance Churn Prediction**](https://github.com/farhan4381/Insurance-Churn-Prediction) | Predictive Analytics | Python, Scikit-Learn | Classification models to identify high-risk customer turnover |
-| [**Bike Sharing Demand Analysis**](https://github.com/farhan4381/bike-sharing-demand-analysis) | Time-Series & EDA | Python, Pandas, Seaborn | Trend extraction and regression analysis for urban mobility demand |
-| [**COD Dashboard**](https://github.com/farhan4381/COD-Dashboard) | Data Visualization | Python, Streamlit/Dash | Interactive analytics dashboard tracking performance metrics |
-| [**Weather CLI Tool**](https://github.com/farhan4381/weather-cli) | API & Automation | Python, Requests API | Real-time weather data extraction and automated terminal reporting |
-
----
-
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhan4381&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan4381&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=farhan4381&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://komarev.com/ghpvc/?username=farhan4381&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+Hi! I'm **Farhan Fazal**, a Data Science master's student at **Hochschule Fulda, Germany**.
+
+I enjoy turning raw data into meaningful insights, predictive models, visualizations, and practical solutions.
+
+My work sits at the intersection of:
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,2,0&height=100&section=footer" width="100%"/>
+
+### Data → Analytics → Machine Learning → Intelligent Solutions
+
+</div>
+
+### 🔎 My Focus
+
+- 📊 Data Analysis & Exploratory Data Analysis
+- 🤖 Machine Learning & Predictive Modeling
+- 🧠 Artificial Intelligence
+- 🔄 Process Mining
+- ⚙️ Data Processing & Automation
+- 📈 Business Intelligence & Data Visualization
+- 🛠️ Data Pipelines & Analytics
+
+---
+
+# ⚡ My Data Science Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01%20_RAW%20_DATA-0284C7?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02%20_CLEAN-0EA5E9?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03%20_EXPLORE-0284C7?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/04%20_FEATURES-0EA5E9?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/05%20_MODEL-0284C7?style=for-the-badge"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/06%20_INSIGHTS-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Collect** → **Clean** → **Analyze** → **Model** → **Evaluate** → **Visualize** → **Solve**
+
+</div>
+
+---
+
+# 🧰 Tech Stack
+
+### 🐍 Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+</p>
+
+### 📊 Analytics & Visualization
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🚲 Bike Sharing Demand
+
+Data analysis project exploring bike-sharing demand using Python, Pandas and visualization techniques.
+
+**Focus**
+
+📊 EDA  
+📈 Data Visualization  
+🐍 Python  
+🔎 Pattern Analysis
+
+<br>
+
+<a href="https://github.com/farhan4381/bike-sharing-demand-analysis">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🛡️ Insurance Churn Prediction
+
+Machine learning project focused on predicting customer churn and identifying important factors affecting customer retention.
+
+**Focus**
+
+🤖 Machine Learning  
+📊 Data Analysis  
+🔎 Feature Engineering  
+🎯 Prediction
+
+<br>
+
+<a href="https://github.com/farhan4381/Insurance-Churn-Prediction">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 COD Dashboard
+
+Interactive Python dashboard project focused on presenting data and insights through an accessible visual interface.
+
+**Focus**
+
+📊 Dashboard  
+🐍 Python  
+📈 Visualization  
+💡 Insights
+
+<br>
+
+<a href="https://github.com/farhan4381/COD-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌦️ Weather CLI
+
+Command-line Python application that retrieves real-time weather information using the OpenWeatherMap API.
+
+**Focus**
+
+🐍 Python  
+🌐 API Integration  
+⚙️ Data Processing  
+💻 CLI Development
+
+<br>
+
+<a href="https://github.com/farhan4381/weather-cli">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Analytics**
+
+EDA  
+Statistics  
+Visualization  
+KPI Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Machine Learning**
+
+Prediction  
+Classification  
+Feature Engineering  
+Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Data Solutions**
+
+Automation  
+Processing  
+APIs  
+Pipelines
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔄
+
+**Process Intelligence**
+
+Process Mining  
+Discovery  
+Analysis  
+Optimization
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0EA5E9?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Process%20Mining-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Modeling-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=farhan4381&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0284C7&icon_color=0284C7"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan4381&layout=compact&theme=default&hide_border=true&title_color=0284C7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=farhan4381&theme=default&hide_border=true&ring=0284C7&fire=0EA5E9&currStreakLabel=0284C7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can apply **Data Science, Machine Learning, Analytics, and AI** to real-world problems.
+
+<div align="center">
+
+`Working Student` • `Internship` • `Data Science` • `Data Analytics`
+
+`Machine Learning` • `Business Intelligence` • `Artificial Intelligence`
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/farhan4381">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/farhanfazal98">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:farhanfazal4381@gmail.com">
+<img src="https://img.shields.io/badge/farhanfazal4381%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=farhan4381&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+### ✨ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+
 </div>
