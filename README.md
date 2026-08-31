@@ -302,17 +302,19 @@ Optimization
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=farhan4381&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0284C7&icon_color=0284C7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan4381&theme=default" width="95%"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan4381&layout=compact&theme=default&hide_border=true&title_color=0284C7"/>
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan4381&theme=default"/>
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan4381&theme=default"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=farhan4381&theme=default&hide_border=true&ring=0284C7&fire=0EA5E9&currStreakLabel=0284C7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhan4381&theme=default"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhan4381&theme=default&utcOffset=1"/>
 
 </div>
 
