@@ -54,13 +54,13 @@ My work sits at the intersection of:
 
 ### 🔎 My Focus
 
- 📊 **Data Analysis & Exploratory Data Analysis**
- 🤖 **Machine Learning & Predictive Modeling**
- 🧠 **Artificial Intelligence**
- 🔄 **Process Mining**
- ⚙️ **Data Processing & Automation**
- 📈 **Business Intelligence & Data Visualization**
- 🛠️ **Data Pipelines & Analytics**
+ - 📊 **Data Analysis & Exploratory Data Analysis**
+ - 🤖 **Machine Learning & Predictive Modeling**
+ - 🧠 **Artificial Intelligence**
+ - 🔄 **Process Mining**
+ - ⚙️ **Data Processing & Automation**
+ - 📈 **Business Intelligence & Data Visualization**
+ - 🛠️ **Data Pipelines & Analytics**
 
 ---
 
